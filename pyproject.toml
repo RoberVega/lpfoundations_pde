@@ -6,7 +6,6 @@ authors = [
     "Paula <pauladomingeuzencinas@gmail.com>"
     ]
 
-
 [tool.poetry.dependencies]
 python = ">=3.9"
 pandas = "^2.2.2"
