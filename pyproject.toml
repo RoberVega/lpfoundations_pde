@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "life_expectancy"
-version = "0.1.0"
+name = ["life_expectancy"]
+version = ["0.1.0"]
 readme = "README.md"
-description = "First assignment of the Foundations Learning Path"
+description = ["First assignment of the Foundations Learning Path"]
 authors = ["Paula <pauladomingeuzencinas@gmail.com>"]
 
 [tool.poetry.dependencies]
