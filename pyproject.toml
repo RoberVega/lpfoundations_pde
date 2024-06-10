@@ -3,7 +3,7 @@ name = "life_expectancy"
 version = "0.1.0"
 readme = "README.md"
 description = "First assignment of the Foundations Learning Path"
-authors = [{name="Paula", email="pauladomingeuzencinas@gmail.com"}]
+authors = ["Paula <pauladomingeuzencinas@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8"
