@@ -5,10 +5,9 @@ readme = "README.md"
 requires-python = ">=3.8"
 description = "First assignment of the Foundations Learning Path"
 authors = [{name="Paula", email="pauladomingeuzencinas@gmail.com"}]
-dependencies = ["pandas"]
 
-[project.optional-dependencies]
-dev = ["pytest", "pylint", "pytest-cov", "toml"]
+[tool.poetry.dependencies]
+dev = ["pandas", "pytest", "pylint", "pytest-cov", "toml"]
 
 [build-system]
 requires = ["setuptools>=61.0"]
